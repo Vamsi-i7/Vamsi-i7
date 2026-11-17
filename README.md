@@ -211,37 +211,13 @@ Split travel expenses, track shared costs, and settle up with friends — simple
 <!-- ═══════════════════ DIVIDER ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════ LIVE RECENT ACTIVITY ═══════════════════ -->
-
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="28"/> &nbsp;Live Recent Activity
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2000&pause=600&color=A855F7&center=true&vCenter=true&repeat=true&width=450&height=20&lines=%E2%9A%A1+Live+stream+of+commits%2C+builds+%26+pushes" alt="Activity intro" />
-
-</div>
-
-<br/>
-
-<!-- RECENT_ACTIVITY_START -->
-- 🚀 **Pushed 1 commit** to [`Vamsi-i7/EduWrap_AP_2026`](https://github.com/Vamsi-i7/EduWrap_AP_2026) · _1d ago_
-- 🚀 **Pushed 1 commit** to [`Vamsi-i7/DE_Project_2026`](https://github.com/Vamsi-i7/DE_Project_2026) · _2d ago_
-- 🎉 **Created branch** in [`Vamsi-i7/EduWrap_AP_2026`](https://github.com/Vamsi-i7/EduWrap_AP_2026) · _2d ago_
-- 🚀 **Pushed 1 commit** to [`Vamsi-i7/LeetCode`](https://github.com/Vamsi-i7/LeetCode) · _19d ago_
-- 🚀 **Pushed 1 commit** to [`Vamsi-i7/LeetCode`](https://github.com/Vamsi-i7/LeetCode) · _20d ago_
-- 🚀 **Pushed 1 commit** to [`Vamsi-i7/LeetCode`](https://github.com/Vamsi-i7/LeetCode) · _21d ago_
-<!-- RECENT_ACTIVITY_END -->
-
-<!-- ═══════════════════ DIVIDER ═══════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
 
-## <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="28"/> &nbsp;Achievements
+## <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="28"/> &nbsp;Achievements & Milestones
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vamsi-i7&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2000&pause=600&color=F97316&center=true&vCenter=true&repeat=true&width=400&height=20&lines=%E2%9C%A6+Recognitions%2C+competitions+%26+milestones" alt="Achievements intro" />
 
 </div>
 
