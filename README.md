@@ -6,13 +6,17 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,20:1a1035,40:7C3AED,60:A855F7,80:EC4899,100:F97316&text=VAMSI%20KRISHNA&fontColor=FFFFFF&fontSize=50&fontAlignY=35&desc=%E2%9C%A6%20AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder%20%E2%9C%A6&descSize=15&descAlignY=55&animation=fadeIn" alt="Header" />
 </a>
 
-<!-- ═══════════════════ ANIMATED TYPING ═══════════════════ -->
+<!-- ═══════════════════ MULTI-LINE TYPING ═══════════════════ -->
 
 <a href="https://github.com/Vamsi-i7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=%3E+Building+intelligent+products+that+matter.;%3E+From+ideas+to+production.+Always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=700&height=30&lines=%E2%9A%A1+Building+intelligent+products+that+matter." alt="Typing 1" />
+</a>
+<br/>
+<a href="https://github.com/Vamsi-i7">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2800&pause=1200&color=EC4899&center=true&vCenter=true&repeat=true&width=600&height=25&lines=AI+%C3%97+Full-Stack+%C3%97+Product+%C3%97+Quant+Research" alt="Typing 2" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- ═══════════════════ SOCIAL LINKS ═══════════════════ -->
 
@@ -23,7 +27,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vamsi-i7&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Vamsi-i7&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/Vamsi-i7?style=for-the-badge&logo=github&label=FOLLOWERS&color=EC4899" alt="Followers"/>
 
@@ -55,6 +59,14 @@ I work at the intersection of **AI, full-stack development, and product thinking
 
 </div>
 
+<!-- ═══════════════════ NOW WORKING ON ═══════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=800&color=F97316&center=true&vCenter=true&repeat=true&width=500&height=22&lines=%F0%9F%94%A5+Currently+shipping+%E2%80%94+Rocky+V2+%7C+DSA+Grind+%7C+ML+Exploration" alt="Now working on" />
+
+</div>
+
 <!-- ═══════════════════ DIVIDER ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -64,40 +76,31 @@ I work at the intersection of **AI, full-stack development, and product thinking
 
 <div align="center">
 
-### 🎨 Frontend & UI
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2000&pause=600&color=7C3AED&center=true&vCenter=true&repeat=true&width=400&height=20&lines=Tools+I+use+to+turn+ideas+into+reality+%E2%9C%A8" alt="Stack intro" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<br/><br/>
 
-### ⚙️ Backend & Databases
+<!-- Animated Skill Icons -->
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&theme=dark" alt="Frontend" />
+</a>
 
-### 🤖 AI & Programming
+<br/><br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Local LLMs](https://img.shields.io/badge/Local_LLMs-7C3AED?style=for-the-badge&logo=ollama&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,supabase,firebase&theme=dark" alt="Backend" />
+</a>
 
-### 🛠️ Tools & Workflow
+<br/><br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,git,github,vscode,figma&theme=dark" alt="Tools" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2200&pause=700&color=06B6D4&center=true&vCenter=true&repeat=true&width=500&height=20&lines=Learn+the+tool.+Understand+the+problem.+Build+something+useful." alt="Stack motto" />
 
 </div>
 
@@ -110,9 +113,7 @@ I work at the intersection of **AI, full-stack development, and product thinking
 
 <div align="center">
 
-<a href="https://github.com/Vamsi-i7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=EC4899&center=true&vCenter=true&width=600&lines=Every+project+is+a+problem+solved+%E2%80%94+or+a+lesson+learned." alt="Projects motto" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2600&pause=900&color=EC4899&center=true&vCenter=true&repeat=true&width=550&height=22&lines=Every+project+is+a+problem+solved+%E2%80%94+or+a+lesson+learned." alt="Projects motto" />
 
 </div>
 
@@ -212,7 +213,7 @@ Split travel expenses, track shared costs, and settle up with friends — simple
 
 <!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
 
-## 🏆 Achievements & Highlights
+## <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="28"/> &nbsp;Achievements
 
 <div align="center">
 
@@ -234,9 +235,13 @@ Split travel expenses, track shared costs, and settle up with friends — simple
 
 <!-- ═══════════════════ PROBLEM SOLVING ═══════════════════ -->
 
-## 🧠 Problem Solving
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> &nbsp;Problem Solving
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2400&pause=800&color=FFA116&center=true&vCenter=true&repeat=true&width=450&height=20&lines=Not+just+writing+code+%E2%80%94+sharpening+the+thinking+behind+it." alt="DSA intro" />
+
+<br/><br/>
 
 <a href="https://leetcode.com/u/vamsikr1436/">
   <img width="60%" src="https://leetcard.jacoblin.cool/vamsikr1436?theme=dark&font=JetBrains+Mono&radius=12&border=0&animation=true" alt="LeetCode Stats" />
@@ -258,6 +263,10 @@ Split travel expenses, track shared costs, and settle up with friends — simple
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/> &nbsp;GitHub Analytics
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2300&pause=700&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=20&lines=Building+in+public+%E2%80%94+one+commit+at+a+time+%F0%9F%9A%80" alt="Analytics intro" />
+
+<br/><br/>
 
 <a href="https://github.com/Vamsi-i7">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vamsi-i7&theme=radical" alt="Stats" />
@@ -285,7 +294,15 @@ Split travel expenses, track shared costs, and settle up with friends — simple
   <img width="75%" src="https://streak-stats.demolab.com?user=Vamsi-i7&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=EC4899&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=94A3B8" alt="Streak Stats" />
 </a>
 
-<br/><br/>
+<br/>
+
+### 📈 Contribution Graph
+
+<a href="https://github.com/Vamsi-i7">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vamsi-i7&bg_color=0D1117&color=A855F7&line=EC4899&point=F97316&area=true&area_color=7C3AED&hide_border=true&custom_title=Vamsi's%20Contribution%20Graph" alt="Activity Graph" />
+</a>
+
+<br/>
 
 ### 🐍 Watch My Contributions Come Alive
 
@@ -306,7 +323,11 @@ Split travel expenses, track shared costs, and settle up with friends — simple
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1500&color=A855F7&center=true&vCenter=true&width=500&lines=%22Build.+Break.+Learn.+Repeat.%22" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1500&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%22Build.+Break.+Learn.+Repeat.%22" alt="Quote" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=550&height=20&lines=Thanks+for+visiting+%E2%9C%A8+Let's+build+something+amazing+together!" alt="Thanks" />
 
 <br/><br/>
 
